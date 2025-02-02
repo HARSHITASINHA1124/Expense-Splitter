@@ -40,6 +40,9 @@
 - `POST /calculate`: Sends the total amount and contributions to the backend and returns how to split the costs.
 
 ## Screenshots
+![1](https://github.com/user-attachments/assets/a3db024a-bf84-45f6-8916-9040e02ec635)
+![2](https://github.com/user-attachments/assets/509786c9-6bdf-49d0-a7da-edfb57996d03)
+
 
 ## Folder Structure
 ```
