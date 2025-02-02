@@ -39,6 +39,8 @@
 ## API
 - `POST /calculate`: Sends the total amount and contributions to the backend and returns how to split the costs.
 
+## Screenshots
+
 ## Folder Structure
 ```
 /expense-splitter
@@ -55,5 +57,3 @@
 MIT License. Feel free to contribute or use the code!
 
 ---
-
-This version is more direct, easy to read, and avoids any overly formal or technical language. Let me know if you'd like more adjustments!
